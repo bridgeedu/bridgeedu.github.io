@@ -142,7 +142,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  middleman (>= 4.0.0)
+  middleman (>= 3.4.0)
   middleman-compass (>= 4.0.0)
   middleman-deploy
   middleman-livereload
