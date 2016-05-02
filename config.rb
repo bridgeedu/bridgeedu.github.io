@@ -40,6 +40,8 @@ activate :deploy do |deploy|
   deploy.branch = "master"
 end
 
+activate :directory_indexes
+
 # activate :deploy do |deploy|
 #   deploy.deploy_method = :git
 #   # Optional Settings
