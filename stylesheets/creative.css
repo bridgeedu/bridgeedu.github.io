@@ -15,11 +15,11 @@ body {
     font-family: Merriweather,'Helvetica Neue',Arial,sans-serif;
 }
 
-hr {
+/*hr {
     max-width: 50px;
     border-color: #f05f40;
     border-width: 3px;
-}
+}*/
 
 hr.light {
     border-color: #fff;
