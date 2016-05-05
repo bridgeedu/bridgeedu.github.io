@@ -392,6 +392,7 @@ fieldset[disabled] .btn-default.active {
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
+    margin: 9px;
 }
 
 .btn-primary:hover,
