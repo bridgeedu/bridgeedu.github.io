@@ -18,3 +18,10 @@ hr {
 .country p, img{
   display: inline;
 }
+
+#contactmain #contactbranch{
+  display: inline-block;;
+  width: 300px;
+  vertical-align: top;
+  background-color: grey;
+}
