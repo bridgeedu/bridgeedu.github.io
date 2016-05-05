@@ -25,3 +25,12 @@ hr {
   vertical-align: top;
   background-color: grey;
 }
+
+.dropdown{
+  margin-left: 950px !important;
+  padding-top: 80px;
+}
+
+.dropdown-menu{
+  margin-left: 90px;
+}
