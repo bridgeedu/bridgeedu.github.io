@@ -19,13 +19,6 @@ hr {
   display: inline;
 }
 
-#contactmain #contactbranch{
-  display: inline-block;;
-  width: 300px;
-  vertical-align: top;
-  background-color: grey;
-}
-
 .dropdown{
   margin-left: 950px !important;
   padding-top: 80px;
